@@ -1,0 +1,9 @@
+C:\Users\bluepen\source\repos\끄투온라인_서버리스트\끄투온라인_서버리스트\bin\Release\끄투온라인_서버리스트.exe.config
+C:\Users\bluepen\source\repos\끄투온라인_서버리스트\끄투온라인_서버리스트\bin\Release\끄투온라인_서버리스트.exe
+C:\Users\bluepen\source\repos\끄투온라인_서버리스트\끄투온라인_서버리스트\bin\Release\끄투온라인_서버리스트.pdb
+C:\Users\bluepen\source\repos\끄투온라인_서버리스트\끄투온라인_서버리스트\obj\Release\끄투온라인_서버리스트.Form1.resources
+C:\Users\bluepen\source\repos\끄투온라인_서버리스트\끄투온라인_서버리스트\obj\Release\끄투온라인_서버리스트.Properties.Resources.resources
+C:\Users\bluepen\source\repos\끄투온라인_서버리스트\끄투온라인_서버리스트\obj\Release\끄투온라인_서버리스트.csproj.GenerateResource.cache
+C:\Users\bluepen\source\repos\끄투온라인_서버리스트\끄투온라인_서버리스트\obj\Release\끄투온라인_서버리스트.csproj.CoreCompileInputs.cache
+C:\Users\bluepen\source\repos\끄투온라인_서버리스트\끄투온라인_서버리스트\obj\Release\끄투온라인_서버리스트.exe
+C:\Users\bluepen\source\repos\끄투온라인_서버리스트\끄투온라인_서버리스트\obj\Release\끄투온라인_서버리스트.pdb
